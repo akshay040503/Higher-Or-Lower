@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Higher or Lower</string>
+    <string name="i_am_thinking_of_a_number_between_1_20"><![CDATA[I am thinking of a number between 1 & 20]]></string>
+</resources>
